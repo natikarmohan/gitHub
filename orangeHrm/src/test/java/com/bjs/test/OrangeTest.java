@@ -27,7 +27,7 @@ public class OrangeTest {
             l.clickSubmitButton();
             Home h = new Home(d);
             h.clickionc();
-            
+            System.out.println("gitHub commit");            
 	}
 
 }
